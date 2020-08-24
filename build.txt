@@ -1,0 +1,4 @@
+displayName = Minecraft Cave Noises
+author = Tamet
+version = 1.0.0
+homepage = https://forums.terraria.org/index.php?threads/tamets-mini-mods.97321/

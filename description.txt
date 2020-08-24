@@ -1,0 +1,4 @@
+[c/808080:I fear no man. But that thing...] [c/2F2F2F:Minecraft Cave Noises] [c/808080:it scares me]
+Mod adds cave sounds from Minecraft and some new ones
+
+Mod contains sound effects from game Minecraft made by Mojang
